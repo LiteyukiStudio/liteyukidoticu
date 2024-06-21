@@ -4,7 +4,7 @@
         "contents": [
             {
                 "text": "Liteyuki Server 轻雪MC服务器",
-                "href": "https://mc.liteyuki.icu"
+                "link": "https://mc.liteyuki.icu"
             },
             {
                 "text": "LiteyukiBot",
@@ -29,17 +29,17 @@
         "contents": [
             {
                 "text": "SnowyKami个人主页",
-                "href": "https://sfkm.me",
+                "link": "https://sfkm.me",
                 "owner": "snowykami"
             },
             {
                 "text": "SnowyKami个人博客",
-                "href": "https://b.sfkm.me",
+                "link": "https://b.sfkm.me",
                 "owner": "snowykami"
             },
             {
                 "text": "白鼠的小站",
-                "href": "https://tcea.top",
+                "link": "https://tcea.top",
                 "owner": "cys2004"
             },
             {
