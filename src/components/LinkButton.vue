@@ -7,7 +7,7 @@ const props = defineProps({
     owner: String,
 })
 
-let imgSrc = null
+let imgSrc = ""
 
 if(props.owner){
     imgSrc = `https://github.com/${props.owner}.png?size=80`
@@ -17,7 +17,7 @@ if(props.owner){
 
 <template>
     <a class="button" :href="link">
-        <img v-if="imgSrc" :src="imgSrc" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 10px; margin-left: 10px;" alt=""/>
+        <img v-if="imgSrc!=''" :src="imgSrc" style="width: 40px; height: 40px; border-radius: 50%; margin-right: 10px; margin-left: 10px;" alt=""/>
         {{text}}
     </a>
 </template>
