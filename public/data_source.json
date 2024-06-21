@@ -1,0 +1,52 @@
+[
+    {
+        "collectionName": "轻雪相关内容",
+        "contents": [
+            {
+                "text": "Liteyuki Server 轻雪MC服务器",
+                "href": "https://mc.liteyuki.icu"
+            },
+            {
+                "text": "LiteyukiBot",
+                "link": "https://bot.liteyuki.icu"
+            },
+            {
+                "text": "Liteyuki Lab 轻雪社区",
+                "link": "https://lab.liteyuki.icu"
+            },
+            {
+                "text": "Liteyuki Meme",
+                "link": "https://meme.liteyuki.icu"
+            },
+            {
+                "text": "Liteyuki Netdisk",
+                "link": "https://nd.liteyuki.icu"
+            }
+        ]
+    },
+    {
+        "collectionName": "友情链接",
+        "contents": [
+            {
+                "text": "SnowyKami个人主页",
+                "href": "https://sfkm.me",
+                "owner": "snowykami"
+            },
+            {
+                "text": "SnowyKami个人博客",
+                "href": "https://b.sfkm.me",
+                "owner": "snowykami"
+            },
+            {
+                "text": "白鼠的小站",
+                "href": "https://tcea.top",
+                "owner": "cys2004"
+            },
+            {
+                "text": "律回彼境",
+                "link": "https://www.glowmem.com/",
+                "owner": "aicorein"
+            }
+        ]
+    }
+]
