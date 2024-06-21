@@ -10,8 +10,6 @@
   <a href="https://sfkm.me" class="button">SnowyKami 个人主页</a>
   <a href="https://tcea.top" class="button">白鼠的小站</a>
   <a href="https://minecraft.net" class="button">Minecraft 官网</a>
-  <a href="https://ys.mihoyo.com/main/" class="button">原神官网</a>
-  <a href="https://www.cqupt.edu.cn" class="button">重庆邮电大学官网</a>
   <footer>
     <hr>
     <a href="https://icp.gov.moe/?keyword=20240224" target="_blank">萌ICP备20240224号</a>
