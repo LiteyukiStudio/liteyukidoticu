@@ -5,7 +5,9 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #aaaaaa;
+
+  background-color: #999;
+  background-image: url('assets/bg.webp');
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -23,6 +25,8 @@ a:hover {
 }
 
 body {
+  background-color: rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(10px);
   margin: 0;
   display: flex;
   justify-content: center;
