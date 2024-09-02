@@ -3,6 +3,10 @@
         "collectionName": "轻雪相关内容",
         "contents": [
             {
+                "text": "Liteyuki Gitea",
+                "link": "https://git.liteyuki.icu"
+            },
+            {
                 "text": "Liteyuki Server 轻雪MC服务器",
                 "link": "https://mc.liteyuki.icu"
             },
