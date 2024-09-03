@@ -1,37 +1,41 @@
 [
     {
-        "collectionName": "轻雪相关内容",
+        "collectionName": "轻雪相关内容 Liteyuki official sites",
         "contents": [
             {
-                "text": "Liteyuki Gitea",
+                "text": "Github",
+                "link": "https://github.com/LiteyukiStudio"
+            },
+            {
+                "text": "Gitea Workspace",
                 "link": "https://git.liteyuki.icu"
             },
             {
-                "text": "Liteyuki Server 轻雪MC服务器",
+                "text": "Minecraft Server",
                 "link": "https://mc.liteyuki.icu"
             },
             {
-                "text": "LiteyukiBot",
+                "text": "Bot 机器人",
                 "link": "https://bot.liteyuki.icu"
             },
             {
-                "text": "Liteyuki Lab 轻雪社区",
+                "text": "Lab 社区",
                 "link": "https://lab.liteyuki.icu"
             },
             {
-                "text": "Liteyuki Meme",
+                "text": "Meme 梗图归档",
                 "link": "https://meme.liteyuki.icu"
             },
             {
-                "text": "Liteyuki Netdisk 网盘",
+                "text": "Netdisk 网盘",
                 "link": "https://nd.liteyuki.icu"
             },
             {
-                "text": "Liteyuki biography 人物传记",
+                "text": "Biography 传记",
                 "link": "https://bio.liteyuki.icu"
             },
             {
-                "text": "Liteyuki status 轻雪状态",
+                "text": "Status 状态页",
                 "link": "https://status.liteyuki.icu"
             },
             {
@@ -39,13 +43,13 @@
                 "link": "https://mtr.lite.ac.cn"
             },
             {
-                "text": "LiteyukiBot StarMap 轻雪星图",
+                "text": "Bot StarMap 星图",
                 "link": "https://starmap.liteyuki.icu/"
             }
         ]
     },
     {
-        "collectionName": "友情链接",
+        "collectionName": "友链 Partner links",
         "contents": [
             {
                 "text": "SnowyKami个人主页",
@@ -91,6 +95,16 @@
                 "text": "EDream的小破站",
                 "link": "https://blog.edmc.cn/",
                 "owner": "EDream"
+            },
+            {
+                "text": "可爱就对了",
+                "link": "https://dream.day/",
+                "owner": "Executor-Cheng"
+            },
+            {
+                "text": "Viki 写东西的地方",
+                "link": "https://blog.viki.moe/",
+                "owner": "vikiboss"
             }
         ]
     }
