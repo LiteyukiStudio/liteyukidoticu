@@ -23,6 +23,11 @@ if(props.owner){
 </template>
 
 <style scoped>
+
+a {
+    max-width: 300px;
+}
+
 a.button {
     box-sizing: border-box;
     align-content: center;
