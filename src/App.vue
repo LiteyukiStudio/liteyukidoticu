@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import CollectionComp from "./components/CollectionComp.vue";
-import {onMounted, ref} from "vue";
-import {statsApi, uploadVisitRecord} from "./components/scripts/statsApi.ts";
+import { onMounted, ref } from "vue";
+import { statsApi, uploadVisitRecord } from "./components/scripts/statsApi.ts";
 
 let collections = ref([])
 let totalVisit = ref(0)
@@ -28,11 +28,11 @@ onMounted(async () => {
     <CollectionComp v-for="c in collections" :collection="c"></CollectionComp>
     <footer>
         <p>Liteyuki Studio | 总计到访者: {{ totalVisit }} | 你是第 {{ currentVisit }} 位</p>
+        <p>网站的主页还在建设中...</p>
     </footer>
 </template>
 
 <style scoped>
-
 body {
     font-family: Arial, sans-serif;
     margin: 0;
