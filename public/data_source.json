@@ -53,6 +53,14 @@
             {
                 "text": "Bot StarMap 星图",
                 "link": "https://starmap.liteyuki.icu/"
+            },
+            {
+                "text": "Marsho AI",
+                "link": "https://marsho.liteyuki.icu"
+            },
+            {
+                "text": "OI Online AI Service",
+                "link": "https://oi.liteyuki.icu"
             }
         ]
     }
