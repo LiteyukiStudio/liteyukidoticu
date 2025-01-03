@@ -11,8 +11,8 @@
                 "link": "https://git.liteyuki.icu"
             },
             {
-                "text": "Passport 认证中心",
-                "link": "https://pass.liteyuki.icu"
+                "text": "轻雪通行证",
+                "link": "https://pass.liteyuki.icu/login/liteyuki-external"
             },
             {
                 "text": "Minecraft Server",
@@ -27,7 +27,7 @@
                 "link": "https://fcb.liteyuki.icu"
             },
             {
-                "text": "Lab 社区",
+                "text": "Lab 社区(建设中...)",
                 "link": "https://lab.liteyuki.icu"
             },
             {
@@ -47,11 +47,7 @@
                 "link": "https://status.liteyuki.icu"
             },
             {
-                "text": "LMTR  轻雪铁路",
-                "link": "https://mtr.lite.ac.cn"
-            },
-            {
-                "text": "Bot StarMap 星图",
+                "text": "Bot StarMap 分布星图",
                 "link": "https://starmap.liteyuki.icu/"
             },
             {
