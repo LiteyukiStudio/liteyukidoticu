@@ -7,7 +7,7 @@
                 "link": "https://github.com/LiteyukiStudio"
             },
             {
-                "text": "Gitea Workspace",
+                "text": "Gitea",
                 "link": "https://git.liteyuki.icu"
             },
             {
@@ -15,11 +15,11 @@
                 "link": "https://pass.liteyuki.icu/login/liteyuki-external"
             },
             {
-                "text": "Minecraft Server",
+                "text": "轻雪Minecraft服务器",
                 "link": "https://mc.liteyuki.icu"
             },
             {
-                "text": "Bot 机器人",
+                "text": "LiteyukiBot",
                 "link": "https://bot.liteyuki.icu"
             },
             {
@@ -57,6 +57,22 @@
             {
                 "text": "OI Online AI Service",
                 "link": "https://oi.liteyuki.icu"
+            },
+            {
+                "text": "AList 资源共享中心",
+                "link": "https://als.liteyuki.icu"
+            },
+            {
+                "text": "内容分发网络 CDN结点",
+                "link": "https://cdn.liteyuki.icu"
+            },
+            {
+                "text": "服务器铁路",
+                "link": "https://mtr.liteyuki.icu"
+            },
+            {
+                "text": "Error Page 404",
+                "link": "https://errortest.liteyuki.icu"
             }
         ]
     }
