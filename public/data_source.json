@@ -3,6 +3,11 @@
         "collectionName": "轻雪索引站点",
         "contents": [
             {
+                "text": "服务检测报告 SRE",
+                "link": "https://sre.liteyuki.icu"
+            },
+
+            {
                 "text": "Github",
                 "link": "https://github.com/LiteyukiStudio"
             },
