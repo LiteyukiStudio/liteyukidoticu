@@ -3,7 +3,7 @@
         "collectionName": "轻雪索引站点",
         "contents": [
             {
-                "text": "服务检测报告 SRE",
+                "text": "服务监测报告 SRE",
                 "link": "https://sre.liteyuki.icu"
             },
 
@@ -20,8 +20,8 @@
                 "link": "https://pass.liteyuki.icu/login/liteyuki-external"
             },
             {
-                "text": "轻雪Minecraft服务器",
-                "link": "https://mc.liteyuki.icu"
+                "text": "轻雪容器镜像站",
+                "link": "https://reg.liteyuki.icu"
             },
             {
                 "text": "LiteyukiBot",
@@ -35,10 +35,7 @@
                 "text": "Lab 轻雪社区",
                 "link": "https://lab.liteyuki.icu"
             },
-            {
-                "text": "Meme 梗图归档",
-                "link": "https://meme.liteyuki.icu"
-            },
+            
             {
                 "text": "Netdisk 网盘",
                 "link": "https://nd.liteyuki.icu"
@@ -72,8 +69,16 @@
                 "link": "https://cdn.liteyuki.icu"
             },
             {
+                "text": "轻雪Minecraft服务器",
+                "link": "https://mc.liteyuki.icu"
+            },
+            {
                 "text": "服务器铁路",
                 "link": "https://mtr.liteyuki.icu"
+            },
+            {
+                "text": "Meme 梗图归档",
+                "link": "https://meme.liteyuki.icu"
             },
             {
                 "text": "Error Page 404",
